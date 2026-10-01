@@ -1,0 +1,17 @@
+# Output and downloads
+youtube_clips/
+source_*.mp4
+temp_*.ass
+*.mp4
+*.mp3
+*.wav
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Secrets - never commit these
+.env
+*.key

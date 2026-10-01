@@ -1,0 +1,6 @@
+yt-dlp[default]
+faster-whisper
+google-genai
+pydantic
+opencv-python
+av
