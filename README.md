@@ -23,8 +23,8 @@ Clips are saved to `youtube_clips/`, named by rank and score, e.g. `01_9.1_the_b
 ## Setup
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/Z7arato/AI-clip-generator.git
+cd AI-clip-generator
 python -m venv .venv
 .venv\Scripts\activate          # Windows
 # source .venv/bin/activate     # macOS / Linux
